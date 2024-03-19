@@ -37,14 +37,14 @@ try {
 			<span class="text">Admin</span>
 		</a>
 		<ul class="side-menu top">
-			<li class="active">
+			<li>
 			    <a href="dashboard.php">
 					<!-- <i class='bx bxs-dashboard' ></i> -->
                     <i class='bx bx-stats' ></i>
 					<span class="text">Dashboard</span>
 				</a>
 			</li>
-			<li>
+			<li class="active">
 			    <a href="enseignant.php">
                     <i class='bx bx-user'></i>
 					<span class="text">Enseignants</span>
