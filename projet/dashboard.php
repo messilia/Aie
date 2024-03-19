@@ -3,7 +3,7 @@ if (isset($_POST[''])) {
     header("location:index.php");
 }    
 ?>
-
+<!-- http://localhost/myproject/dashboard.php -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
