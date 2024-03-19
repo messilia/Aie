@@ -37,33 +37,33 @@ try {
 			<span class="text">Admin</span>
 		</a>
 		<ul class="side-menu top">
-			<li>
+			<li class="active">
 			    <a href="dashboard.php">
 					<!-- <i class='bx bxs-dashboard' ></i> -->
                     <i class='bx bx-stats' ></i>
 					<span class="text">Dashboard</span>
 				</a>
 			</li>
-			<li class="active">
+			<li>
 			    <a href="enseignant.php">
                     <i class='bx bx-user'></i>
 					<span class="text">Enseignants</span>
 				</a>
 			</li>
 			<li>
-				<a href="etudiant.php">
+				<a href="">
                     <i class='bx bxs-group' ></i>
 					<span class="text">Etudiants</span>
 				</a>
 			</li>
 			<li>
-				<a href="salle.php">
+				<a href="">
                     <i class='bx bxs-school'></i>
 					<span class="text">Salles</span>
 				</a>
 			</li>
 			<li>
-				<a href="module.php">
+				<a href="">
                     <i class='bx bx-file'></i>
 					<span class="text">Modules</span>
 				</a>
@@ -71,7 +71,7 @@ try {
 		</ul>
 		<ul class="side-menu">
 			<li>
-				<a href="planning.php">
+				<a href="">
 					<i class='bx bxs-cog' ></i>
 					<span class="text">Generation Planning</span>
 				</a>
