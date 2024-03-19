@@ -44,19 +44,19 @@ if (isset($_POST[''])) {
 				</a>
 			</li>
 			<li>
-				<a href="etudiant.php">
+				<a href="">
                     <i class='bx bxs-group' ></i>
 					<span class="text">Etudiants</span>
 				</a>
 			</li>
 			<li>
-				<a href="salle.php">
+				<a href="">
                     <i class='bx bxs-school'></i>
 					<span class="text">Salles</span>
 				</a>
 			</li>
 			<li>
-				<a href="module.php">
+				<a href="">
                     <i class='bx bx-file'></i>
 					<span class="text">Modules</span>
 				</a>
@@ -64,13 +64,13 @@ if (isset($_POST[''])) {
 		</ul>
 		<ul class="side-menu">
 			<li>
-				<a href="planning.php">
+				<a href="">
 					<i class='bx bxs-cog' ></i>
 					<span class="text">Generation Planning</span>
 				</a>
 			</li>
 			<li>
-			    <a href="index.php" class="logout">
+			    <a href="" class="logout">
 					<i class='bx bxs-log-out-circle' ></i>
 					<span class="text">Logout</span>
 				</a>
